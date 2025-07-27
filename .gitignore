@@ -1,0 +1,14 @@
+gitignore
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
